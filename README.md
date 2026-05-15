@@ -4,6 +4,16 @@ Interactive 3D mollusc-shell viewer — a port of the six-parameter parametric
 surface model from Contreras-Figueroa & Aragón (2023), with live sliders
 and presets for every specimen in the paper's Table 1.
 
+
+
+
+
+
+https://github.com/user-attachments/assets/6fefd416-f2d6-45e1-bd4d-08d07a05dea0
+
+
+
+
 > Contreras-Figueroa, G. & Aragón, J. L. (2023).
 > *A Mathematical Model for Mollusc Shells Based on Parametric Surfaces and the
 > Construction of Theoretical Morphospaces.*
