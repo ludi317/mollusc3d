@@ -29,20 +29,29 @@ Open `index.html` in any modern browser. No build step.
 - Six principal sliders: `b` whorl expansion, `d` horizontal distance,
   `z` vertical translation, `a` aperture ratio, `φ` aperture tilt,
   `ψ` rotation around the local binormal
-- Three ornamentation sliders: `n` aperture peaks, `c` rib frequency,
-  amplitude
+- Four ornamentation sliders: `n` aperture peaks, `c` rib frequency,
+  amplitude, `k` aperture displacement (bivalve hinge offset, §2.7.3)
 - Whorl-count slider (controls the rendered range of `t`)
 
-## Specimen presets (Table 1)
+## Specimen presets
 
-- **Gastropoda — helicoidal**: *Asperiscala pacis*, *Acteon sullivanae*,
-  *Lirularia pedroana*, *Brachysphingus mammilatus*, *Biplica obliqua*
-- **Gastropoda — limpets**: *Scelidotoma bella*, *Crepidula adunca*
-- **Cephalopoda**: *Oregoniceras siskiyouense*, *Nautilus aff. N. cookanum*,
-  *Cleoniceras (Grycia) susukii*, *Shasticrioceras patricki*,
-  *Baculites boulei* (orthoconic)
-- **Bivalvia**: *Cucullaea morani*, *Glycymerita banosensis*,
-  *Indogrammatodon vancouverensis*
+Buttons show common names; hover for the scientific name (Table 1
+specimens unless noted).
+
+- **Gastropoda — helicoidal**: Wentletrap (*Asperiscala pacis*),
+  Barrel-bubble (*Acteon sullivanae*), Top snail (*Lirularia pedroana*),
+  Whelk (*Brachysphingus mammilatus*), Agate snail (*Biplica obliqua*)
+- **Gastropoda — limpets**: Keyhole limpet (*Scelidotoma bella*),
+  Slipper snail (*Crepidula adunca*)
+- **Cephalopoda**: Ammonite (*Oregoniceras siskiyouense*),
+  Nautilus (*Nautilus aff. N. cookanum*),
+  Ammonite (*Cleoniceras (Grycia) susukii*),
+  Heteromorph ammonite (*Shasticrioceras patricki*),
+  Baculite / orthocone (*Baculites boulei*)
+- **Bivalvia**: Ark clam (*Cucullaea morani*),
+  Bittersweet clam (*Glycymerita banosensis*),
+  Ark clam (*Indogrammatodon vancouverensis*),
+  Scallop (not in Table 1)
 
 ## Math
 
