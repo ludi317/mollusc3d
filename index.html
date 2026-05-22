@@ -333,9 +333,10 @@ new p5((p) => {
         const cy = envelope * (wN * Ny + wT * Ty + wB * By);
         const cz = envelope * (wN * Nz + wT * Tz + wB * Bz);
 
-        // λ(t, θ) = γ + C.  Y is up in p5 WEBGL, so send -(gz+cz) to Y.
+        // λ(t, θ) = γ + C.  p5 WEBGL has +Y pointing down on screen, so the
+        // shell's z-axis (apex up) maps to +Y.
         const X =  (gx + cx);
-        const Y = -(gz + cz);
+        const Y =  (gz + cz);
         const Z =  (gy + cy);
 
         raw.push(X, Y, Z);
