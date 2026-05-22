@@ -218,16 +218,20 @@ SLIDERS.forEach(id => {
   update();
 });
 
+const applyPreset = (name) => {
+  const p = PRESETS[name];
+  for (const id in p) {
+    const el = document.getElementById(id);
+    el.value = p[id];
+    el.dispatchEvent(new Event('input'));
+  }
+};
+
 document.querySelectorAll('#panel button[data-preset]').forEach(btn => {
-  btn.addEventListener('click', () => {
-    const p = PRESETS[btn.dataset.preset];
-    for (const id in p) {
-      const el = document.getElementById(id);
-      el.value = p[id];
-      el.dispatchEvent(new Event('input'));
-    }
-  });
+  btn.addEventListener('click', () => applyPreset(btn.dataset.preset));
 });
+
+applyPreset('lirularia');
 
 let uiDrag = false;
 let uiHover = false;
