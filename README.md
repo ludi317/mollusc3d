@@ -1,3 +1,4 @@
+
 # conch3d
 
 Interactive 3D mollusc-shell viewer — a port of the six-parameter parametric
@@ -11,8 +12,19 @@ and presets for every specimen in the paper's Table 1.
 
 https://github.com/user-attachments/assets/6fefd416-f2d6-45e1-bd4d-08d07a05dea0
 
+<img width="676" height="624" alt="Screenshot 2026-05-22 at 4 58 48 PM" src="https://github.com/user-attachments/assets/174baa5a-bec2-441a-aabf-8a27a428642d" />
 
+Top Snail
 
+<img width="473" height="555" alt="Screenshot 2026-05-22 at 4 58 08 PM" src="https://github.com/user-attachments/assets/92febba8-d016-4070-b930-60bdfcbae7bb" />
+
+Scallop
+
+<img width="616" height="651" alt="Screenshot 2026-05-22 at 5 04 29 PM" src="https://github.com/user-attachments/assets/1de86fd1-f7c2-4299-93e5-e0a921d296e7" />
+
+Nautilus Fossil
+
+## Paper
 
 > Contreras-Figueroa, G. & Aragón, J. L. (2023).
 > *A Mathematical Model for Mollusc Shells Based on Parametric Surfaces and the
