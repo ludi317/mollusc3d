@@ -51,7 +51,7 @@ Buttons show common names; hover for the scientific name (Table 1
 specimens unless noted).
 
 - **Gastropoda — helicoidal**: Wentletrap (*Asperiscala pacis*),
-  Barrel-bubble (*Acteon sullivanae*), Top snail (*Lirularia pedroana*),
+  Auger shell (*Acteon sullivanae*), Top snail (*Lirularia pedroana*),
   Whelk (*Brachysphingus mammilatus*), Agate snail (*Biplica obliqua*)
 - **Gastropoda — limpets**: Keyhole limpet (*Scelidotoma bella*),
   Slipper snail (*Crepidula adunca*)
