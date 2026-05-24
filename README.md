@@ -1,5 +1,5 @@
 
-# conch3d
+# mollusc3d
 
 Interactive 3D mollusc-shell viewer — a port of the six-parameter parametric
 surface model from Contreras-Figueroa & Aragón (2023), with live sliders
