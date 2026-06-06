@@ -216,7 +216,7 @@ SLIDERS.forEach(id => {
 });
 
 const applyPreset = (name) => {
-  const p = PRESETS[name];
+  const p = { k: defaults.k, ...PRESETS[name] };
   for (const id in p) {
     const el = document.getElementById(id);
     el.value = p[id];
